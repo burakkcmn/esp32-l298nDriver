@@ -71,4 +71,9 @@ These files define and implement functions to configure PWM:
 - setPWMDutyCycle(int pin, int dutyCycle): Sets the PWM duty cycle for a given pin.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- This project is based on tutorials by Rui Santos & Sara Santos - [Random Nerd Tutorials](https://RandomNerdTutorials.com/)
